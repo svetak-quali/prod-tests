@@ -6,12 +6,12 @@ inputs:
   account:
     type: string
     display-style: normal
-    default: "AWS-QualiDev2"
+    default: "aws"
     description: "cloud account"
   compute:
     type: string
     display-style: normal
-    default: "qualidev2-eks"
+    default: "eks"
     description: "compute service"    
   version:
     type: string
