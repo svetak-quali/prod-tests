@@ -8,6 +8,6 @@ grains:
       source:
         path: github.com/johnathanvidu/torque-samples.git//terraform/simple-tf-module
       host:
-        cloud-account: AWS-QualiDev2
-        compute-service: qualidev2-eks
+        cloud-account: aws
+        compute-service: eks
 
